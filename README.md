@@ -1,2 +1,2 @@
-# deploy-ritik-jwallers
-deployment of ritik jwallers shop webapp
+# deploy-ritik-jewellers
+deployment of ritik jewellers shop webapp
